@@ -9,6 +9,7 @@ Hello, my name is M. Rifqan Zalbina, people call me "Rifqan", Still learning abo
 - Experienced HTML
 - Experienced CSS
 - Still learning C++
+- Still learning C#
 - Proficient in making logos using the python programming language
 - Proficient in NumPy Library Python
 - Proficient in Turtle Library Python
