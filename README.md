@@ -5,7 +5,7 @@ Hello, my name is M. Rifqan Zalbina, people call me "Rifqan", Still learning abo
 
 - Happy with neat coding
 - Experienced Python
-- Experienced Java
+- Experienced Basic Java
 - Experienced HTML
 - Experienced CSS
 - Still learning C++
