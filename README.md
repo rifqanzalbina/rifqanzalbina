@@ -1,7 +1,7 @@
 Hello, my name is M. Rifqan Zalbina, people call me "Rifqan", Still learning about data and want to become pro Data analysis and Pro Web Developer
 [(link to instagram page)](https://www.instagram.com/rifqanzal/). Follow my github page to collaborate for project.
 
-#### Technology Stack  & Experiences
+### Technology Stack  & Experiences
 
 - Happy with neat coding
 - Experienced Python
