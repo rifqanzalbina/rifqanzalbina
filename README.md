@@ -4,7 +4,9 @@ Hello, my name is M. Rifqan Zalbina, people call me "Rifqan", Still learning abo
 ### Technology Stack  & Experiences
 
 - Happy with neat coding
+- Addict With Python 
 - Experienced Python
+- Experienced With JavaScript
 - Experienced Basic Java
 - Experienced HTML
 - Experienced CSS
