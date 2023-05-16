@@ -17,7 +17,7 @@ and sorry for my bad english, I will be better at using English in the future
 - Proficient in making Simple Machine Learning Using Python
 - Proficient in making logos using the python programming language
 - Proficient in NumPy Library Python
-- Proficient in Turtle Library Python
+- Proficient in PyGame Library Python
 - Proficient in Tkinter Library Python
 - Data enthusiast
 - Experience with OOP Java
