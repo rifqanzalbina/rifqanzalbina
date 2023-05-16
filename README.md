@@ -9,7 +9,7 @@ and sorry for my bad english, I will be better at using English in the future
 - Addict With Python 
 - Experienced Python
 - Experienced With JavaScript
-- Experienced Basic Java
+- Experienced Java
 - Experienced HTML
 - Experienced CSS
 - Still learning C++
