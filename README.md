@@ -18,7 +18,7 @@ and sorry for my bad english, I will be better at using English in the future
 - Proficient in making logos using the python programming language
 - Proficient in NumPy Library Python
 - Proficient in PyGame Library Python
-- Proficient in Tkinter Library Python
+- Proficient in Make AppDesktop and Mobile App using Java
 - Data enthusiast
 - Experience with OOP Java
 
