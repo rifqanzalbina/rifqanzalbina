@@ -15,7 +15,6 @@ and sorry for my bad english, I will be better at using English in the future
 - Still learning C++
 - Still learning C#
 - Proficient in making Simple Machine Learning Using Python
-- Proficient in making logos using the python programming language
 - Proficient in NumPy Library Python
 - Proficient in PyGame Library Python
 - Proficient in Make AppDesktop and Mobile App using Java
