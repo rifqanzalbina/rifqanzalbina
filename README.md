@@ -10,7 +10,7 @@ and sorry for my bad english, I will be better at using English in the future
 - Experienced Python
 - Experienced With JavaScript
 - Experienced Java
-- Experienced HTML
+- Experienced Bulma
 - Experienced BootStrap
 - Still learning C++
 - Still learning C#
