@@ -11,7 +11,7 @@ and sorry for my bad english, I will be better at using English in the future
 - Experienced With JavaScript
 - Experienced Java
 - Experienced HTML
-- Experienced CSS
+- Experienced BootStrap
 - Still learning C++
 - Still learning C#
 - Proficient in making Simple Machine Learning Using Python
