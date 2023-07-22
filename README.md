@@ -17,7 +17,6 @@ i still learning too, but i hope i can consistant to always active in github and
 <a href="https://www.hackerrank.com/therzqan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="therzqan" height="30" width="40" /></a>
 <a href="https://codepen.io/rifqanzalbina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rifqanzalbina" height="30" width="40" /></a>
 <a href="https://kaggle.com/rifqanzalbina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rifqanzalbina" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rifqanzalbina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rifqanzalbina" height="30" width="40" /></a>
 </p>
 </p>
 
