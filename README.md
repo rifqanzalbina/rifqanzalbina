@@ -1,6 +1,5 @@
 Hello, my name is `M. Rifqan Zalbina` , people call me `Rifqan`, Still learning about data and want to become > Data analyst and Web Developer,
-Follow my github page to collaborate for project. If you want ask me some question
-i feel free to answer it , i hope what i made in my profile will make you guys interested to my skill :D, 
+Follow my github page to collaborate for project. If you want to ask me any questions, feel free to do so, and I will be happy to answer. , i hope what i made in my profile will make you guys interested to my skill :D, 
 i still learning too, but i hope i can consistant to always active in github and other my socialmedia, i hope we can collaborate so i can learn too from you guys  , Thank you guys keep smile and happy 😃, and sorry for my bad english, I will be better at using English in the future
 
 <h3 align="left">Connect with me:</h3>
