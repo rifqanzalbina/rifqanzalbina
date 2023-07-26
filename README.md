@@ -1,9 +1,3 @@
-<h1 align="center">Hello 👋, I'm M Rifqan Zalbina</h1>
-<h3 align="center">A Web Development and Data Analyst</h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p> -->
-
-
-
 Hello, my name is `M. Rifqan Zalbina` , people call me `Rifqan`, Still learning about data and want to become > Data analyst and Web Developer,
 Follow my github page to collaborate for project. If you want ask me some question
 i feel free to answer it , i hope what i made in my profile will make you guys interested to my skill :D, 
