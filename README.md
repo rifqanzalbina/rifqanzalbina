@@ -1,7 +1,7 @@
 Hello, my name is `M. Rifqan Zalbina` , people call me `Rifqan`, Still learning about data and want to become > Data analyst and Web Developer,
 Follow my github page to collaborate for project. If you want to ask me any questions, feel free to do so, and I will be happy to answer. , i hope what i made in my profile will make you guys interested to my skill, 
 i still learning too, but i hope i can consistant to always active in github and other my socialmedia, i hope we can collaborate so i can learn too from you guys  , Thank you guys keep smile and happy 😃, and sorry for my bad english, I will improve my English in the future.
-<h3 align="left">You can contact me:</h3>
+<h3 align="left">My contact</h3>
 <p align="left">
 <a href="https://instagram.com/rifqanzal?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/rifqanzal" height="30" width="40" /></a>
 <a href="https://discord.gg/rqanz#6853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rqanz#6853" height="30" width="40" /></a>
