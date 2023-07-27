@@ -10,6 +10,7 @@ CodePen : https://codepen.io/rifqanzalbina <br>
 Medium : https://medium.com/@zalbinarifqan19 <br>
 Quora : https://id.quora.com/profile/M-Rifqan <br>
 Github : https://github.com/rifqanzalbina <br>
+Twitter : https://twitter.com/rqanz2 <br>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
