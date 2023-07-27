@@ -5,7 +5,6 @@ i still learning too, but i hope i can consistant to always active in github and
 <p align="left">
 <p>Instagram : https://www.instagram.com/rifqanzal <br>
 Discord : https://discord.gg/mrifqanzalbina <br>
-Linkedin : https://www.linkedin.com/in/muhammad-rifqan-zalbina-96a42a282/ <br>
 HackerRank : https://www.hackerrank.com/therzqan <br>
 CodePen : https://codepen.io/rifqanzalbina <br>
 Medium : https://medium.com/@zalbinarifqan19 <br>
