@@ -5,14 +5,15 @@ i still learning too, but i hope i can consistant to always active in github and
 
 <h2 align="left">Connect with me : </h3>
 <p align="left">
-<p>Instagram : https://www.instagram.com/rifqanzal <br>
-Discord : https://discord.gg/mrifqanzalbina <br>
+<p>
+Instagram : https://www.instagram.com/rifqanzal <br>
 HackerRank : https://www.hackerrank.com/therzqan <br>
 CodePen : https://codepen.io/rifqanzalbina <br>
 Medium : https://medium.com/@zalbinarifqan19 <br>
 Quora : https://id.quora.com/profile/M-Rifqan <br>
 Github : https://github.com/rifqanzalbina <br>
 Twitter : https://twitter.com/rqanz2 <br>
+SourceForge : https://sourceforge.net/u/rifqanzal/profile <br>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
