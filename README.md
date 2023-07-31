@@ -14,6 +14,7 @@ Quora : https://id.quora.com/profile/M-Rifqan <br>
 Github : https://github.com/rifqanzalbina <br>
 Twitter : https://twitter.com/rqanz2 <br>
 SourceForge : https://sourceforge.net/u/rifqanzal/profile <br>
+WordPress : https://wordpress.com/home/rqz73.wordpress.com <br>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
