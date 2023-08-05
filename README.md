@@ -6,7 +6,8 @@ i still learning too, but i hope i can consistant to always active in github and
 <h2 align="left">Connect with me : </h2>
 <p align="left">
 <p>
-Instagram : https://www.instagram.com/rifqanzal <br>
+MyInstagram : https://www.instagram.com/rifqanzal <br>
+MypostInstagram : https://www.instagram.com/mrifqanzalbinatech/ <br>
 HackerRank : https://www.hackerrank.com/therzqan <br>
 CodePen : https://codepen.io/rifqanzalbina <br>
 Medium : https://medium.com/@zalbinarifqan19 <br>
