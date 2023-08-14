@@ -1,5 +1,6 @@
 <p align="left">
-Hello, my name is `M. Rifqan Zalbina` , people call me `Rifqan` and i'm a student, Still learning about data and want to become > Data analyst and Web Developer,
+Hello, my name is `M. Rifqan Zalbina` , people call me `Rifqan` and i'm a student, Still learning about data and want 
+to become > Data analyst and Web Developer,
 Follow my github page to collaborate for project. If you want to ask me any questions, feel free to do so, and I will be happy to answer. , i hope what i made in my profile will make you guys interested to my skill, 
 i still learning too, but i hope i can consistant to always active in github and other my socialmedia, i hope we can collaborate so i can learn too from you guys  , Thank you guys keep smile and happy 😃, and sorry for my bad english, I will improve my English in the future.
 </p>
@@ -19,7 +20,6 @@ WordPress : https://rqz73.wordpress.com/ <br>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
-
 
 <h2 align="left">Tools and Framework</h2>
 <p>
@@ -45,7 +45,6 @@ WordPress : https://rqz73.wordpress.com/ <br>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
-
 
 <h2 align="left">Language</h2>
 <p align="left">
