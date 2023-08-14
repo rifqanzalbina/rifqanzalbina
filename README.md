@@ -14,7 +14,7 @@ Medium : https://medium.com/@zalbinarifqan19 <br>
 Quora : https://id.quora.com/profile/M-Rifqan <br>
 Github : https://github.com/rifqanzalbina <br>
 Twitter : https://twitter.com/rqanz2 <br>
-WordPress : https://wordpress.com/home/rqz73.wordpress.com or https://wordpress.com/rqz73.wordpress.com <br>
+WordPress : https://wordpress.com/home/rqz73.wordpress.com or https:/rqz73.wordpress.com <br>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
