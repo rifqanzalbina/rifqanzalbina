@@ -5,7 +5,7 @@ Follow my github page to collaborate for project. If you want to ask me any ques
 i still learning too, but i hope i can consistant to always active in github and other my socialmedia, i hope we can collaborate so i can learn too from you guys  , Thank you guys keep smile and happy 😃, and sorry for my bad english, I will improve my English in the future.  
 </p>
 
-<h2 align="left">Connect with me :</h2>
+<h2 align="left">Connect with me : </h2>
 <p align="left">
 <p>
 Linkedin : https://www.linkedin.com/in/m-rifqan-zalbina-96a42a282/ <br>
