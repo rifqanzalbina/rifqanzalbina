@@ -1,8 +1,5 @@
 <p align="left">
-Hello, my name is `M. Rifqan Zalbina` , people call me `Rifqan` and i'm a student, Still learning about data and want 
-to become > Data analyst and Web Developer,
-Follow my github page to collaborate for project. If you want to ask me any questions, feel free to do so, and I will be happy to answer. , i hope what i made in my profile will make you guys interested to my skill, 
-i still learning too, but i hope i can consistant to always active in github and other my socialmedia, i hope we can collaborate so i can learn too from you guys  , Thank you guys keep smile and happy 😃, and sorry for my bad english, I will improve my English in the future.  
+Hey there! I'm M. Rifqan Zalbina - but in the digital cosmos, I'm better known as Rifqan. Riding the data wave and crafting digital realms, I'm on a quest to redefine the Data Analyst and Web Developer narrative. Dive into my code adventures on GitHub and witness creativity in pixels and bytes. Let’s fuse ideas and ignite innovation! And while my code might be sleek, I'm still tuning my English—bear with me. Ready to embark on a tech odyssey? Let's connect! 🔥
 </p>
 
 <h2 align="left">Connect with me : </h2>
