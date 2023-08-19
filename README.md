@@ -5,7 +5,7 @@ Hey there! I'm M. Rifqan Zalbina - but in the digital cosmos, I'm better known a
 <h2 align="left">Connect with me : </h2>
 <p align="left">
 <p>
-Bio : https://rifqanzalbina.github.io/rifqan.github.io/ <br>
+Bio : https://rifqanzalbina.github.io/rifqan.github.io/<br>
 Linkedin : https://www.linkedin.com/in/m-rifqan-zalbina-96a42a282/ <br>
 MyInstagram : https://www.instagram.com/rifqanzal <br>
 PostInstagram : https://www.instagram.com/mrifqanzalbinatech/ <br>
