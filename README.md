@@ -9,7 +9,7 @@ Bio : https://rifqanzalbina.github.io/rifqan.github.io/ <br>
 Linkedin : https://www.linkedin.com/in/m-rifqan-zalbina-96a42a282/ <br>
 MyInstagram : https://www.instagram.com/rifqanzal <br>
 PostInstagram : https://www.instagram.com/mrifqanzalbinatech/ <br>
-HackerRank : https://www.hackerrank.com/therzqan <br>
+<!-- HackerRank : https://www.hackerrank.com/therzqan <br> -->
 Medium : https://medium.com/@zalbinarifqan19 <br>
 Quora : https://id.quora.com/profile/M-Rifqan <br>
 Github : https://github.com/rifqanzalbina <br>
