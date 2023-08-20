@@ -5,7 +5,6 @@ Hey there! I'm M. Rifqan Zalbina - but in the digital cosmos, I'm better known a
 <h2 align="left">Connect with me : </h2>
 <p align="left">
 <p>
-  
 Bio : https://rifqanzalbina.github.io/rifqan.github.io/ <br>
 Linkedin : https://www.linkedin.com/in/m-rifqan-zalbina-96a42a282/ <br>
 MyInstagram : https://www.instagram.com/rifqanzal <br>
@@ -16,7 +15,6 @@ Quora : https://id.quora.com/profile/M-Rifqan <br>
 Github : https://github.com/rifqanzalbina <br>
 Twitter : https://twitter.com/rqanz2 <br>
 WordPress : https://mrifqanzalbina.wordpress.com <br>
-
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
