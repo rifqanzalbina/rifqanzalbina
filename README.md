@@ -9,7 +9,6 @@ Bio : https://rifqanzalbina.github.io/rifqan.github.io/ <br>
 Linkedin : https://www.linkedin.com/in/m-rifqan-zalbina-96a42a282/ <br>
 MyInstagram : https://www.instagram.com/rifqanzal <br>
 Facebook : https://www.facebook.com/profile.php?id=61550680584887 <br>
-SimpleNotepad : https://app.simplenote.com/ <br>
 <!-- PostInstagram : https://www.instagram.com/mrifqanzalbinatech/ <br> -->
 <!-- HackerRank : https://www.hackerrank.com/therzqan <br> -->
 Medium : https://medium.com/@zalbinarifqan19 <br>
@@ -19,6 +18,13 @@ Twitter : https://twitter.com/rqanz2 <br>
 WordPress : https://mrifqanzalbina.wordpress.com <br>
 </p>
 
+<h2 align="left">Reminder :</h2>
+<p align="left">
+<p>
+SimpleNotepad : https://app.simplenote.com/ <br>
+</p>
+
+<h2 align="left"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
 
 <h2 align="left">Tools and Framework</h2>
