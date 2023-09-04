@@ -1,5 +1,5 @@
 <p align="left">
-Hey there! I'm M. Rifqan Zalbina - but in the digital cosmos, I'm better known as Rifqan. Riding the data wave and crafting digital realms, I'm on a quest to redefine the Data Analyst and Web Developer narrative. Dive into my code adventures on GitHub and witness creativity in pixels and bytes. Let’s fuse ideas and ignite innovation! And while my code might be sleek, I'm still tuning my English—bear with me. Ready to embark on a tech odyssey? Let's connect! 🔥  
+Hey there! I'm M. Rifqan Zalbina - but in the digital cosmos, I'm better known as Rifqan. Riding the data wave and crafting digital realms, I'm on a quest to redefine the Data Analyst and Web Developer narrative. Dive into my code adventures on GitHub and witness creativity in pixels and bytes. Let’s fuse ideas and ignite innovation! And while my code might be sleek, I'm still tuning my English—bear with me. Ready to embark on a tech odyssey? Let's connect! 🔥 
 </p> 
 
 <h2 align="left">Connect with me : </h2>
