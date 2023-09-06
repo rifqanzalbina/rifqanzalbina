@@ -22,6 +22,7 @@ WordPress : https://mrifqanzalbina.wordpress.com <br>
 <p align="left">
 <p>
 SimpleNotepad : https://app.simplenote.com/ <br>
+Wakatime : https://wakatime.com/@rifqanzalbina <br>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
