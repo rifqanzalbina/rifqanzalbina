@@ -1,5 +1,7 @@
 <p align="left">
 Hey there! I'm M. Rifqan Zalbina - but in the digital cosmos, I'm better known as Rifqan. Riding the data wave and crafting digital realms, I'm on a quest to redefine the Data Analyst and Web Developer narrative. Dive into my code adventures on GitHub and witness creativity in pixels and bytes. Let’s fuse ideas and ignite innovation! And while my code might be sleek, I'm still tuning my English—bear with me. Ready to embark on a tech odyssey? Let's connect! 🔥 
+
+<a href="https://wakatime.com/@0bdcdc5a-8e52-44ff-b0ba-937670008054"><img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023" /></a>
 </p> 
 
 <h2 align="left">Connect with me : </h2>
@@ -18,11 +20,10 @@ Twitter : https://twitter.com/rqanz2 <br>
 WordPress : https://mrifqanzalbina.wordpress.com <br>
 </p>
 
-<h2 align="left">Reminder :</h2>
+<h2 align="left">Activity :</h2>
 <p align="left">
 <p>
 SimpleNotepad : https://app.simplenote.com/ <br>
-Wakatime : https://wakatime.com/@rifqanzalbina <br>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
