@@ -18,15 +18,11 @@ Quora : https://id.quora.com/profile/M-Rifqan <br>
 Github : https://github.com/rifqanzalbina <br>
 Twitter : https://twitter.com/rqanz2 <br>
 WordPress : https://mrifqanzalbina.wordpress.com <br>
-</p>
-
-<h2 align="left">Activity :</h2>
-<p align="left">
-<p>
 SimpleNotepad : https://app.simplenote.com/ <br>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
 
 <h2 align="left">Tools and Framework</h2>
 <p>
@@ -80,5 +76,5 @@ SimpleNotepad : https://app.simplenote.com/ <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifqanzalbina&" alt="rifqanzalbina" /></p>
 
-</p>
+</p> 
 
