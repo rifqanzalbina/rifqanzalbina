@@ -8,7 +8,7 @@ Hey there! I'm M. Rifqan Zalbina - but in the digital cosmos, I'm better known a
 <p align="left">
 <p>
 Bio : https://rifqanzalbina.github.io/rifqan.github.io/ <br>
-Linkedin : https://www.linkedin.com/in/m-rifqan-zalbina-96a42a282/ <br>
+<!-- Linkedin : https://www.linkedin.com/in/m-rifqan-zalbina-96a42a282/ <br> -->
 MyInstagram : https://www.instagram.com/rifqanzal <br>
 Facebook : https://www.facebook.com/profile.php?id=61550680584887 <br>
 <!-- PostInstagram : https://www.instagram.com/mrifqanzalbinatech/ <br> -->
