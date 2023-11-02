@@ -5,22 +5,22 @@ Hey there! I'm M. Rifqan Zalbina - but in the digital cosmos, I'm better known a
 <a href="https://wakatime.com/@0bdcdc5a-8e52-44ff-b0ba-937670008054"><img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023" /></a>  
 </p> 
 
-<h2 align="left">Connect with me : </h2>
+<!-- <h2 align="left">Connect with me : </h2>
 <p align="left">
 <p>
 Bio : https://rifqanzalbina.github.io/rifqan.github.io/ <br>
 <!-- Linkedin : https://www.linkedin.com/in/m-rifqan-zalbina-96a42a282/ <br> -->
-MyInstagram : https://www.instagram.com/rifqanzal <br>
-Facebook : https://www.facebook.com/profile.php?id=61550680584887 <br>
+<!-- MyInstagram : https://www.instagram.com/rifqanzal <br>
+Facebook : https://www.facebook.com/profile.php?id=61550680584887 <br> -->
 <!-- PostInstagram : https://www.instagram.com/mrifqanzalbinatech/ <br> -->
 <!-- HackerRank : https://www.hackerrank.com/therzqan <br> -->
-Medium : https://medium.com/@zalbinarifqan19 <br>
+<!-- Medium : https://medium.com/@zalbinarifqan19 <br>
 Quora : https://id.quora.com/profile/M-Rifqan <br>
 Github : https://github.com/rifqanzalbina <br>
 Twitter : https://twitter.com/rqanz2 <br>
 WordPress : https://mrifqanzalbina.wordpress.com <br>
-SimpleNotepad : https://app.simplenote.com/ <br>
-</p>
+SimpleNotepad : https://app.simplenote.com/ <br> -->
+</p> -->
 
 
 <h2>Activity</h2>
