@@ -20,7 +20,7 @@ Github : https://github.com/rifqanzalbina <br>
 Twitter : https://twitter.com/rqanz2 <br>
 WordPress : https://mrifqanzalbina.wordpress.com <br>
 SimpleNotepad : https://app.simplenote.com/ <br> -->
-</p> -->
+</p> 
 
 
 <h2>Activity</h2>
