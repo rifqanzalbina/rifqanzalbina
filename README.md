@@ -1,5 +1,5 @@
 <p align="left">
-Hello, I'm M. Rifqan Zalbina, but in the digital world, you can call me Rifqan. As a Data Analyst, Web Developer, and CyberSecurity enthusiast, I navigate the complex currents of data, craft innovative digital solutions, and fortify cyber defenses. My GitHub is a window into my journey, showcasing my creativity and technical prowess. I'm all about blending ideas to spark innovation. My code is a testament to my skills, and while I continue to refine my English, my passion for technology speaks for itself. Ready to explore new technological horizons together? Let's connect and start this tech odyssey.
+Hello, I'm M. Rifqan Zalbina, but in the digital world, you can call me Rifqan. As a Data Analyst, Web Developer, and CyberSecurity enthusiast, I navigate the complex currents of data, craft innovative digital solutions, and fortify cyber defenses. My GitHub is a window into my journey, showcasing my creativity and technical prowess. I'm all about blending ideas to spark innovation. My code is a testament to my skills, and while I continue to refine my English, my passion for technology speaks for itself. Ready to explore new technological horizons together? Let's connect and start this tech odyssey. 
 </p>
 <!-- 🔥 -->   
 
