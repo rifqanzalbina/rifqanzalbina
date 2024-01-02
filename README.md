@@ -5,6 +5,7 @@ Hello, I'm M. Rifqan Zalbina, but in the digital world, you can call me Rifqan. 
 
  <a href="https://wakatime.com/@0bdcdc5a-8e52-44ff-b0ba-937670008054">
     <img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023" />
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
 </a> 
 
 <div align="center">
@@ -39,7 +40,7 @@ SimpleNotepad : https://app.simplenote.com/ <br> -->
 
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p>
+<!-- 
 
 <h2 align="left">Tools and Framework</h2>
 <p>
