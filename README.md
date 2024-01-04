@@ -7,7 +7,7 @@ I Love Coding 🔥
 <p align="left">
 
 </p>
-<h2>My Skill</h2>
+<h2>Skill</h2>
 - Design
 <br>
 - Web Development (Full Stack)
