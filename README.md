@@ -1,6 +1,7 @@
 <p align="left">
 Hi , My name is M Rifqan Zalbina, 
 <br>
+I Love Coding 🔥
 </p>
 <!-- 🔥 -->   
 
