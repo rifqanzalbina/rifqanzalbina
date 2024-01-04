@@ -1,5 +1,6 @@
 <p align="left">
-Hi , My name is M Rifqan Zalbina, you can call me rifqan, i usually always learning some tech everyday, about app, tools, and programming language itself, folow my github to always check my development of my skill, Thank you
+Hi , My name is M Rifqan Zalbina, 
+<br>
 </p>
 <!-- 🔥 -->   
 
