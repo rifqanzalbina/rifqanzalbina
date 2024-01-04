@@ -5,13 +5,15 @@ I Love Coding 🔥
 </p>
 
 <p align="left">
+
+</p>
 <h2>My Skill</h2>
 - Design
 - Web Development (Full Stack)
 - Cyber ( Still learning )
 - Android ( Still Learning )
 - Machine Learning 
-</p>
+
 <!-- 🔥 -->   
 
  <a href="https://wakatime.com/@0bdcdc5a-8e52-44ff-b0ba-937670008054">
