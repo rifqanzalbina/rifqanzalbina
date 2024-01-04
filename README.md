@@ -9,10 +9,15 @@ I Love Coding 🔥
 </p>
 <h2>My Skill</h2>
 - Design
+<br>
 - Web Development (Full Stack)
+<br>
 - Cyber ( Still learning )
+<br>
 - Android ( Still Learning )
-- Machine Learning 
+<br>
+- Machine Learning  
+<br>
 
 <!-- 🔥 -->   
 
