@@ -23,7 +23,7 @@ I Love Coding 🔥
 <!-- 🔥 -->   
 
  <a href="https://wakatime.com/@0bdcdc5a-8e52-44ff-b0ba-937670008054">
-  <h1>My Total Coding Time</h1>
+  <h2>My Total Coding Time</h2>
     <img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023" />
 <!--     <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p> -->
 </a> 
