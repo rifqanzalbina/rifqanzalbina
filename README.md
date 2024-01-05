@@ -1,5 +1,5 @@
 <p align="left">
-Hi , My name is M Rifqan Zalbina, 
+Hi , My name is M Rifqan Zalbina, You can call me Rifqan
 <br>
 I Love Coding 🔥
 </p>
