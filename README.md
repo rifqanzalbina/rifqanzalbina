@@ -1,7 +1,7 @@
 <p align="left">
 Hi , My name is M Rifqan Zalbina, You can call me Rifqan
 <br>
-I Love Coding 🔥
+Love Coding 💓
 </p>
 
 <p align="left">
