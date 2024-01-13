@@ -28,7 +28,6 @@ Love Coding 💓
 </a> 
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/rifqanzalbina/rifqanzalbina/output/snake.svg" alt="Snake animation" />
 </div>
 
 <!-- <h2 align="left">Connect with me : </h2>
