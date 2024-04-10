@@ -1,7 +1,7 @@
 <p align="left">
 Hi , My name is M Rifqan Zalbina, You can call me Rifqan
 <br>
-Really Love Coding 💓, 
+Really Love Coding 💓
 </p>
 
 <p>Contact WA : 081266745034 </p>
