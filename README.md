@@ -4,7 +4,7 @@ Hi , My name is M Rifqan Zalbina, You can call me Rifqan
 Really Love Coding 💓
 </p>
 
-<p>**Telegram** : https://t.me/rifqza</p>
+**Telegram** : [https://t.me/rifqza](https://t.me/rifqza)
 
 <p align="left">
 
