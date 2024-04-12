@@ -4,9 +4,7 @@ Hi , My name is M Rifqan Zalbina, You can call me Rifqan
 Really Love Coding 💓
 </p>
 
-<p>Contact WA : 081266745034 </p>
-<p>Instagram : rifqanzal</p>
-
+<p>**Telegram** : https://t.me/rifqza</p>
 
 <p align="left">
 
