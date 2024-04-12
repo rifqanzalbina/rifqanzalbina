@@ -14,7 +14,7 @@ Really Love Coding 💓
 <br>
 - Web Development (Full Stack)
 <br>
-- Cyber ( Still learning )
+- Cyber
 <br>
 - Android ( Still Learning )
 <br>
