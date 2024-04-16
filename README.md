@@ -1,7 +1,6 @@
 <p align="left">
 Hi , My name is M Rifqan Zalbina, You can call me Rifqan
 <br>
-Really Love Coding 💓
 </p>
 
 **Telegram** : [https://t.me/rifqza](https://t.me/rifqza)
