@@ -1,4 +1,4 @@
-![image](https://github.com/rifqanzalbina/rifqanzalbina/assets/124742008/1b50f5a2-781d-470a-958d-ce6fb5a19186)
+<img src="https://github.com/rifqanzalbina/rifqanzalbina/assets/124742008/1b50f5a2-781d-470a-958d-ce6fb5a19186" width="500">
 
 
 
