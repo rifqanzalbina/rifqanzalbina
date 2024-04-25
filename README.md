@@ -3,7 +3,6 @@
 
 **Hey there!** I'm **M Rifqan Zalbina**, but you can call me **Rifqan**. Currently, I'm rocking the student life and diving deep into the world of programming. I'm all about learning new stuff in this coding universe. I've got some serious skills as a **Full Stack Web Developer** (always leveling up, of course), and I'm totally into **Data Science** too. Lately, I've been experimenting with blockchain, especially in the evolving realm of **Web3**. If you wanna chat or have any questions, hit me up at [rifqanzalbina.tech](http://www.rifqanzalbina.tech) , and if you want to invite me to your project, I will be very open and welcome to that, i still learning everyday about programming, i really enjoy while the process go, and I really like every process I do discovering new things, so 
 That's a little introduction from me, thank you
-
 <br> 
 
 **Telegram** : [https://t.me/rifqza](https://t.me/rifqza)
