@@ -13,7 +13,7 @@ That's a little introduction from me, thank you
 </p>
 <h2>Skill</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,js,html,css,php,python,java,cs,mysql,scss,npm,git,jquery,nodejs,express,git,github,django,vercel,bootstrap,figma,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,js,html,css,php,python,java,cs,go,mysql,scss,npm,git,jquery,nodejs,express,git,github,django,vercel,bootstrap,figma,vscode&perline=9)](https://skillicons.dev)
 
 <!-- 🔥 -->   
 
