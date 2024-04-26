@@ -7,21 +7,16 @@ That's a little introduction from me, thank you
 
 **Telegram** : [https://t.me/rifqza](https://t.me/rifqza)
 
+
+
+
 <p align="left">
 
 </p>
 <h2>Skill</h2>
-- Design
-<br>
-- Web Development (Full Stack)
-<br>
-- Cyber
-<br>
-- Android ( Still Learning )
-<br>
-- Machine Learning  
-<br>
-<br>
+
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,ts,js,angular,html,css,php,python,java,cs,mysql,postgresql,scss,bootstrap,git,jquery,nodejs,express,prisma,laravel,django,vercel,figma,planetscale,vscode&perline=9)](https://skillicons.dev)
+
 <!-- 🔥 -->   
 
  <a href="https://wakatime.com/@0bdcdc5a-8e52-44ff-b0ba-937670008054">
