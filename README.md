@@ -3,9 +3,7 @@
 That's a little introduction from me, thank you
 <br> 
 
-**Telegram** : [https://t.me/rifqza](https://t.me/rifqza)
-
-
+**Telegram** : [https://t.me/rifqza](https://t.me/rifqza) 
 
 
 <p align="left">
