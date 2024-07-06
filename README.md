@@ -19,8 +19,8 @@ That's a little introduction from me, thank you
   <h2>Total Coding Time</h2>
   <img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023"/>
   <br>
-<!--   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@rifqanzalbina/9c3c4c2b-4db7-48ee-9ae8-5a245d8e55f6.png" width="800" height="500" /></a> -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqanzalbina&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqanzalbina&size_weight=0.5&count_weight=0.5&bg_color=000000&title_color=00FF00&text_color=00FF00" alt="Top Langs" />
+
 
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p> -->
 </a>
@@ -49,7 +49,7 @@ SimpleNotepad : https://app.simplenote.com/ <br> -->
 
 <h2>Activity</h2>
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=rifqanzalbina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rifqanzalbina&theme=chartreuse-dark" alt="GitHub Streak" /></a>
 <p> </p>
 </div>
 
