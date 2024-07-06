@@ -19,9 +19,6 @@ That's a little introduction from me, thank you
   <h2>Total Coding Time</h2>
   <img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqanzalbina&size_weight=0.5&count_weight=0.5&bg_color=000000&title_color=00FF00&text_color=00FF00" alt="Top Langs" />
-
-
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p> -->
 </a>
 
