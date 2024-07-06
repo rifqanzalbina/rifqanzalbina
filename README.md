@@ -15,13 +15,13 @@ That's a little introduction from me, thank you
 
 <!-- 🔥 -->   
 
- <a href="https://wakatime.com/@0bdcdc5a-8e52-44ff-b0ba-937670008054">
+<a href="https://wakatime.com/@0bdcdc5a-8e52-44ff-b0ba-937670008054">
   <h2>Total Coding Time</h2>
-     <img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023" />
-     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@rifqanzalbina/87c922f3-ed20-4d01-b0d5-59fda44058d1.png" /></a>
-<!--     <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p> -->
-</a> 
-
+  <img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023"/>
+  <br>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@rifqanzalbina/87c922f3-ed20-4d01-b0d5-59fda44058d1.png" width="800" height="600" /></a>
+  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p> -->
+</a>
 
 
 <div align="center">
