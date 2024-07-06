@@ -18,9 +18,11 @@ That's a little introduction from me, thank you
  <a href="https://wakatime.com/@0bdcdc5a-8e52-44ff-b0ba-937670008054">
   <h2>Total Coding Time</h2>
      <img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023" />
+     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@rifqanzalbina/fcc0bcd4-6968-49e5-8936-0bac3042a6e0.png" /></a> 
 <!--     <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p> -->
-     <figure><embed src="https://wakatime.com/share/@rifqanzalbina/4927ab13-8d41-4855-b933-44b5604061d9.svg"></embed></figure>
 </a> 
+
+
 
 <div align="center">
 </div>
