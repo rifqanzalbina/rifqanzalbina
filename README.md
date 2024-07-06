@@ -19,7 +19,9 @@ That's a little introduction from me, thank you
   <h2>Total Coding Time</h2>
   <img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023"/>
   <br>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@rifqanzalbina/9c3c4c2b-4db7-48ee-9ae8-5a245d8e55f6.png" width="800" height="500" /></a>
+<!--   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@rifqanzalbina/9c3c4c2b-4db7-48ee-9ae8-5a245d8e55f6.png" width="800" height="500" /></a> -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqanzalbina&layout=compact)
+
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p> -->
 </a>
 
