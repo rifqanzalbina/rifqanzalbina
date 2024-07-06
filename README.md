@@ -19,6 +19,8 @@ That's a little introduction from me, thank you
   <h2>Total Coding Time</h2>
     <img src="https://wakatime.com/badge/user/0bdcdc5a-8e52-44ff-b0ba-937670008054.svg" alt="Total time coded since Sep 6 2023" />
 <!--     <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqanzalbina&label=Profile%20views&color=0e75b6&style=flat" alt="rifqanzalbina" /> </p> -->
+  <h2>Programming Language</h2>
+  <figure><embed src="https://wakatime.com/share/@rifqanzalbina/4927ab13-8d41-4855-b933-44b5604061d9.svg"></embed></figure>
 </a> 
 
 <div align="center">
@@ -47,6 +49,9 @@ SimpleNotepad : https://app.simplenote.com/ <br> -->
   <img src="https://streak-stats.demolab.com?user=rifqanzalbina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <p> </p>
 </div>
+
+
+
 
 
 
