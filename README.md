@@ -1,5 +1,5 @@
 <!-- <img src="https://github.com/rifqanzalbina/rifqanzalbina/assets/124742008/1b50f5a2-781d-470a-958d-ce6fb5a19186" width="500"> --> <br>
-Hi, I'm Rifqan, passionate about Full Stack Development, Data Science, and Web3. Reach me at rifqanzalbina.tech for collaborations or questions. Let's explore coding together!
+Hi, I'm Rifqan, passionate about Full Stack Development, Data Science, and Web3. Reach me at rifqan.vercel.app for collaborations or questions. Let's explore coding together!
 <br> 
 
 <!-- **Telegram** : [https://t.me/rifqza](https://t.me/rifqza) -->
