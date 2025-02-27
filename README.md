@@ -2,6 +2,10 @@
 Hi, I'm Rifqan, passionate about Full Stack Development, Data Science, and Web3. Reach me at [my profile](rifqan.vercel.app) for collaborations or questions. Let's explore coding together!
 <br> 
 
+<a href="https://saweria.co/yourusername">
+  <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Saweria" width="100" height="100">
+</a>
+
 <!-- **Telegram** : [https://t.me/rifqza](https://t.me/rifqza) -->
 
 <p align="left">
