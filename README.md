@@ -11,7 +11,7 @@ Hi, I'm Rifqan, passionate about Full Stack Development, Data Science, and Web3.
 <p align="left">
 
 </p>
-<h2>Skill</h2>
+<h2>Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,nginx,tailwind,js,html,css,php,python,java,cs,go,mysql,scss,npm,git,jquery,nodejs,angular,express,git,github,django,vercel,bootstrap,figma,vscode&perline=9)](https://skillicons.dev)
 
